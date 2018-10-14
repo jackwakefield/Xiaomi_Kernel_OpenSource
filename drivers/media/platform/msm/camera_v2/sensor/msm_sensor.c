@@ -15,7 +15,7 @@
 #include "camera.h"
 #include "msm_cci.h"
 #include "msm_camera_io_util.h"
-#include "msm_camera_i2c_mux.h"
+#include "io/msm_camera_i2c_mux.h"
 #include <linux/regulator/rpm-smd-regulator.h>
 #include <linux/regulator/consumer.h>
 
